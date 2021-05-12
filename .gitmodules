@@ -1,3 +1,6 @@
 [submodule "Workshops"]
 	path = Workshops
 	url = https://github.com/Knuth-Programming-Hub/Workshops.git
+[submodule "CP-Resources"]
+	path = CP-Resources
+	url = https://github.com/Knuth-Programming-Hub/CP-Resources.git
