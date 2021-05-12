@@ -1,3 +1,3 @@
 [submodule "Workshops"]
 	path = Workshops
-	url = git@github.com:Knuth-Programming-Hub/Workshops.git
+	url = https://github.com/Knuth-Programming-Hub/Workshops.git
