@@ -4,3 +4,6 @@
 [submodule "CP-Resources"]
 	path = CP-Resources
 	url = https://github.com/Knuth-Programming-Hub/CP-Resources.git
+[submodule "Knuth-Contests"]
+	path = Knuth-Contests
+	url = https://github.com/Knuth-Programming-Hub/Knuth-Contests.git
