@@ -19,9 +19,11 @@
 <div>
   <h1> Getting Started with Competitive Programming </h1>
   <hr>
+  <p>
   Last edit: October 2021. 
-  While there are many articles and resources on the internet on "How to start with competitive programming", this has been written for absolute beginners, keeping in mind some of the dynamics of JIIT Noida.
 
+  While there are many articles and resources on the internet on "How to start with competitive programming", this has been written for absolute beginners, keeping in mind some of the dynamics of JIIT Noida.
+  </p>
 </div>
 <br>
 
@@ -34,7 +36,7 @@
   </p>  
 
    <b> Competitive programming has three aspects: </b>
-
+   <br> 
     <b> Well-defined problems.</b> <p> You are presented with one or more problems. The problem statement contains variables, and you have to be able to answer the problem if given any possible combination of values of the variables. The problem will be well-defined: you will be informed the exact constraints of all variables, any necessary assumptions, etc.
     </p>
     <b> Computer programs.</b> <p> You write computer programs that solve the problems. Note that the "computer program" here is a very simple command-line program; no fancy GUI or web app etc. The command-line program reads the values of the variables from the standard input, and must write the answer to the standard output.
