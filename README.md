@@ -19,7 +19,7 @@
 <div>
   <h1> Getting Started with Competitive Programming </h1>
   <hr>
-  Last edited: October 2021. 
+  Last edit: October 2021. 
   While there are many articles and resources on the internet on "How to start with competitive programming", this has been written for absolute beginners, keeping in mind some of the dynamics of JIIT Noida.
 
 </div>
@@ -28,7 +28,19 @@
 <div>
   <h1> What is Competitive Programming </h1>
   <hr>
-  <p> -- Put Material here -- </p>
+  <p> 
+    Competitive programming involves programmers competing against each other to solve programming questions in a limited amount of time. 
+    It involves solving well-defined problems by writing computer programs under specified limits.
+    
+    Competitive programming has three aspects:
+
+    <b> Well-defined problems.</b> You are presented with one or more problems. The problem statement contains variables, and you have to be able to answer the problem if given any possible combination of values of the variables. The problem will be well-defined: you will be informed the exact constraints of all variables, any necessary assumptions, etc.
+    
+    <b> Computer programs.</b> You write computer programs that solve the problems. Note that the "computer program" here is a very simple command-line program; no fancy GUI or web app etc. The command-line program reads the values of the variables from the standard input, and must write the answer to the standard output.
+    
+    <b> Specified limits.</b> Your program must run and produce the answer within a specified time and memory limit. Also, you must write the programs in a specified set of allowed programming languages.
+
+  </p>
   
   <br>
   Recommended Watch:
@@ -36,6 +48,8 @@
     <li> <a href="https://www.youtube.com/watch?v=ueNT-w7Oluw">What is Competitive Programming?</a> </li>
   </ol>
 </div>
+
+<br>
 
 <div>
   <h1> How to get started </h1>
@@ -46,8 +60,10 @@
   Recommended Watch:
   <ol>
     <li> <a href="https://youtube.com/watch?v=xAeiXy8-9Y8">How to start Competitive Programming? For beginners!</a> </li>
-  </ol></div>
-
+    <li> <a href="https://www.youtube.com/watch?v=cpguolx2oms">Programming Competitions (Codeforces, Code Jam, ...)</a> </li>
+  </ol>
+</div>
+<br>
 <div>
   <h1>Resources in JIIT Noida</h1>
   <hr>
