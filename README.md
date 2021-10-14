@@ -21,7 +21,8 @@
   <hr>
   <p>
   Last edit: October 2021. 
-
+  <br>
+  <br>
   While there are many articles and resources on the internet on "How to start with competitive programming", this has been written for absolute beginners, keeping in mind some of the dynamics of JIIT Noida.
   </p>
 </div>
@@ -35,8 +36,8 @@
     It involves solving well-defined problems by writing computer programs under specified limits.
   </p>  
 
-   <b> Competitive programming has three aspects: </b>
-   <br> 
+  <p> Competitive programming has three aspects:</p>
+
     <b> Well-defined problems.</b> <p> You are presented with one or more problems. The problem statement contains variables, and you have to be able to answer the problem if given any possible combination of values of the variables. The problem will be well-defined: you will be informed the exact constraints of all variables, any necessary assumptions, etc.
     </p>
     <b> Computer programs.</b> <p> You write computer programs that solve the problems. Note that the "computer program" here is a very simple command-line program; no fancy GUI or web app etc. The command-line program reads the values of the variables from the standard input, and must write the answer to the standard output.
@@ -56,7 +57,7 @@
 <div>
   <h1> How to get started </h1>
   <hr>
-  <p> -- Put Material here -- </p>
+  <p> Coming soon! </p>
   
   <br>
   Recommended Watch:
@@ -84,4 +85,17 @@
     <li> Visit <a href="https://codeforces.com/group/IUJm1OmeBo/members">Codeforces Group</a>, and send request as a participant </li>
     <li>And most importantly, inform someone on the telegram group with your handle that you have sent a request to join. </li>
   </ol>
+</div>
+
+<br>
+<br>
+<div> 
+  <small> 
+    Released under MIT License.
+    <br>
+    Copyright (c) 2021 Knuth Programming Hub
+    <br>
+    <br>
+    <a href="https://github.com/Knuth-Programming-Hub/knuth-programming-hub.github.io/issues">Edit this page or suggest improvements</a> 
+  </small>
 </div>
