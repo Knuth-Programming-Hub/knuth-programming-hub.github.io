@@ -12,3 +12,58 @@
   <a href="https://discord.gg/jatPMerTED">Discord</a> &nbsp;&nbsp;
   <a href="https://github.com/Knuth-Programming-Hub">GitHub</a> &nbsp;&nbsp;
 </span>
+
+<br>
+<br>
+<br>
+<div>
+  <h1> Getting Started with Competitive Programming </h1>
+  <hr>
+  Last edited: October 2021. 
+  While there are many articles and resources on the internet on "How to start with competitive programming", this has been written for absolute beginners, keeping in mind some of the dynamics of JIIT Noida.
+
+</div>
+<br>
+
+<div>
+  <h1> What is Competitive Programming </h1>
+  <hr>
+  <p> -- Put Material here -- </p>
+  
+  <br>
+  Recommended Watch:
+  <ol>
+    <li> <a href="https://www.youtube.com/watch?v=ueNT-w7Oluw">What is Competitive Programming?</a> </li>
+  </ol>
+</div>
+
+<div>
+  <h1> How to get started </h1>
+  <hr>
+  <p> -- Put Material here -- </p>
+  
+  <br>
+  Recommended Watch:
+  <ol>
+    <li> <a href="https://youtube.com/watch?v=xAeiXy8-9Y8">How to start Competitive Programming? For beginners!</a> </li>
+  </ol></div>
+
+<div>
+  <h1>Resources in JIIT Noida</h1>
+  <hr>
+
+  <ul>
+    <li> <a href="https://knuth-programming-hub.github.io/CP-Resources/">Comprehensive list of Competitive Programming Resources</a> </li>
+    <li> <a href="https://t.me/joinchat/LGo0IhZoPRjRjBJHJPf3OA">Telegram Group Invite</a> </li>
+    <li> <a href="">Discord Invite</a> </li>
+    <li> <a href="https://codeforces.com/group/IUJm1OmeBo/members">Codeforces Group Invite</a> </li>
+  </ul>
+
+  <p> Instructions for joining Codeforces group: </p>
+  <ol>
+    <li> Create an account on <a href="https://www.jiit.ac.in/knuth-programming-hub">Codeforces</a>. </li>
+    <li> Mention your college name in your codeforces profile. </li>
+    <li> Visit <a href="https://codeforces.com/group/IUJm1OmeBo/members">Codeforces Group</a>, and send request as a participant </li>
+    <li>And most importantly, inform someone on the telegram group with your handle that you have sent a request to join. </li>
+  </ol>
+</div>
